@@ -2,7 +2,7 @@
 
 ## 参加方法
 
-1. [案内ページ](https://github.com/tomostajp/pullrequest-practice)を読む
+1. [案内ページ](https://note-udemyjapan.benesse.co.jp/n/nf52f5c644007)を読む
 2. 「プログラミングコース①」の各コースを受講していく
 3. Git講座の内容に沿って、このリポジトリをクローンする
 4. 自分のTwitterアカウント名でブランチを作成する
